@@ -14,6 +14,7 @@
 ## Technologies
 
 - Tkinter
+- CoinMarketCap API
 
 ---
 
